@@ -1,0 +1,6 @@
+boto3
+langchain==0.0.353
+streamlit
+antropic
+langchain-aws
+faiss-cpu
